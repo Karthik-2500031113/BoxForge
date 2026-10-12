@@ -1,0 +1,12 @@
+# Compiled binary and build artifacts
+/boxforge
+*.o
+*.out
+
+# Editor and OS files
+*~
+*.swp
+.DS_Store
+
+# Local source backups
+/src/*.before-*
